@@ -1,4 +1,4 @@
-# hive_again
+# Hive database and mqtt in action
 
 A new Flutter project.
 
